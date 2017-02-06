@@ -1,4 +1,5 @@
 <?php
+namespace ScreenSaver\Modules;
 
 class Home 
 {
